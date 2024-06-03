@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295555392504",
+    "project_id": "prichat-cfe89",
+    "storage_bucket": "prichat-cfe89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295555392504:android:bef5b98ea2e70623c7ac0d",
+        "android_client_info": {
+          "package_name": "com.example.prichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295555392504-ol2gq4ol6h8m83kf90942u0lmko18d0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcBp3OCKSEbnDvFbgs365f6ybLU9tLmd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295555392504-ol2gq4ol6h8m83kf90942u0lmko18d0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
